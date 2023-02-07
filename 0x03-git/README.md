@@ -1,1 +1,1 @@
-Everything relating to poject Git
+Everything relating to project Git
